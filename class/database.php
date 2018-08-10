@@ -8,7 +8,7 @@ class db {
 
   public function get($query){
 
-    $connect = @new mysqli('mysql.cba.pl', 'radiogielda', 'Stefan1234', '4ham');
+    $connect = @new mysqli('mysql.cba.pl', 'x', 'x', 'x');
     // $connect = @new mysqli('localhost', 'root', '', 'navi');
 
 
